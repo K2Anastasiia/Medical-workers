@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0026: Использовать тело выражения для индексатора
+csharp_style_expression_bodied_indexers = false
